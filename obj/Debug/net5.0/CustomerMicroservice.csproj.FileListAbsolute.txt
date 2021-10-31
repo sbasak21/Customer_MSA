@@ -1,0 +1,161 @@
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.exe
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.deps.json
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.runtimeconfig.json
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.runtimeconfig.dev.json
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\ref\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.pdb
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.AssemblyReference.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfoInputs.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfo.cs
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\staticwebassets\CustomerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\staticwebassets\CustomerMicroservice.StaticWebAssets.xml
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\scopedcss\bundle\CustomerMicroservice.styles.css
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CopyComplete
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\ref\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.pdb
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.genruntimeconfig.cache
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhr\Desktop\Project\project\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\appsettings.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.exe
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.deps.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.runtimeconfig.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.runtimeconfig.dev.json
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\ref\CustomerMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\log4net.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.AssemblyReference.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfoInputs.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfo.cs
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CoreCompileInputs.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\staticwebassets\CustomerMicroservice.StaticWebAssets.Manifest.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\staticwebassets\CustomerMicroservice.StaticWebAssets.xml
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\scopedcss\bundle\CustomerMicroservice.styles.css
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.RazorTargetAssemblyInfo.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CopyComplete
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\ref\CustomerMicroservice.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.genruntimeconfig.cache
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Humanizer.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\OFFICE(Cognizant)\COGNIZANT TRAINING\CDE FSE\MFPE Project\Project\project_2\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.exe
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.deps.json
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.runtimeconfig.json
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.runtimeconfig.dev.json
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\ref\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\CustomerMicroservice.pdb
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.AssemblyReference.cache
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfoInputs.cache
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfo.cs
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\staticwebassets\CustomerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\staticwebassets\CustomerMicroservice.StaticWebAssets.xml
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\scopedcss\bundle\CustomerMicroservice.styles.css
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CopyComplete
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\ref\CustomerMicroservice.dll
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.pdb
+C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.genruntimeconfig.cache
