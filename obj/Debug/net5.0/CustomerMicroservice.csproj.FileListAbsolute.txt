@@ -159,3 +159,13 @@ C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\C
 C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\ref\CustomerMicroservice.dll
 C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.pdb
 C:\Users\subhr\Desktop\Angular-api\bijit\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.genruntimeconfig.cache
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.AssemblyInfo.cs
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.dll
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\ref\CustomerMicroservice.dll
+C:\Users\User\Desktop\Retail Banking System\CustomerMicroservice\obj\Debug\net5.0\CustomerMicroservice.pdb
